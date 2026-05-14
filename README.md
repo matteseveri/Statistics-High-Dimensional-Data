@@ -1,4 +1,4 @@
-# Statistics-High-Dimensional-Data
+# Statistics High Dimensional Data
 
 Authors: Matteo Severi - Gianluca Antonio Spennacchio - Maria Gnoli - Alessandro Ceschel 
 
