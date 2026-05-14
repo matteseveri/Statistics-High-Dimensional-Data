@@ -9,7 +9,7 @@ library(ggplot2)
 library(plotly)
 
 rm(list = ls())
-setwd("/Users/matteoseveri/Desktop/University/LMEC/High Dimensional Data/WDI")
+setwd("")
 
 
 # ============================================================
